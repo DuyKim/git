@@ -1,6 +1,6 @@
 # GIT
 
-Some decreption!
+Some descreption!
 
 ## Subheader
 
